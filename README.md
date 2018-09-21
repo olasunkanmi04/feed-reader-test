@@ -8,15 +8,19 @@ A web-based application that reads RSS feeds was given and test was written for 
 
 ## How to use
 
-The web-based application is hosted [here]().
-You can also clone this project and load the index.html file on you local machine on your browser.
+The web-based application is hosted [here](https://olasunkanmi04.github.io/feed-reader-test/).
+You can also clone this project and load the index.html file on you local machine on your browser. Results are at the bottom of the page.
 
 ## Dependencies
+Test done with the jasmine framework
+* [Jasmine](https://jasmine.github.io/)
+* [Handlebars](https://handlebarsjs.com/)
+* [Google Fonts](https://fonts.google.com/)
 
 ## Authors
 
 * **Alabi Olasunkanmi**
--With initial template from Udacity
+-With initial web-base Application from Udacity
 
 ## Acknowledgments
 
